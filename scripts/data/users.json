@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "email": "user1@email.com",
+      "password": "$2a$10$2F9Ljc5OWHFx6147IzSUb.1n6JA.QiaKfOuY7ZH8O8H1RNzXJc2aC"
+    },
+    {
+      "id": 2,
+      "email": "user2@email.com",
+      "password": "$2a$10$2F9Ljc5OWHFx6147IzSUb.1n6JA.QiaKfOuY7ZH8O8H1RNzXJc2aC"
+    },
+    {
+      "id": 3,
+      "email": "user3@email.com",
+      "password": "$2a$10$2F9Ljc5OWHFx6147IzSUb.1n6JA.QiaKfOuY7ZH8O8H1RNzXJc2aC"
+    },
+    {
+      "id": 4,
+      "email": "user4@email.com",
+      "password": "$2a$10$2F9Ljc5OWHFx6147IzSUb.1n6JA.QiaKfOuY7ZH8O8H1RNzXJc2aC"
+    }
+  ]
+}
